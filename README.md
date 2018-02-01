@@ -10,4 +10,6 @@ dependecy
 	sudo apt-get install liblog4cpp5-dev
 
 refer to
-	https://github.com/mpromonet/v4l2rtspserver
+
+https://github.com/mpromonet/v4l2rtspserver
+https://github.com/yxteagle/pysdk-uvc
